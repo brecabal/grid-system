@@ -1,0 +1,192 @@
+header{
+	background-color: black;
+}
+
+.logo{
+	padding: 10px;
+}
+.menu{
+	text-decoration: none;
+	color: white;
+	margin: 2px;
+	padding: 1px;
+	position: relative;
+	top: 60px;
+}
+
+.box-imagen{
+	background-color: #978B8B;
+	padding: 20px;
+	margin: 0 auto; 
+
+}
+ .foto-episodios{
+ 	float: left;
+ 	width: 100%;
+ 	border: 4px ridge #fff;
+ 	margin: auto;
+ }
+
+ .parrafo-uno{
+ 	margin:0 auto;
+ 	color: #0E33D1;
+ 	padding-bottom: 20px;
+ 	text-align: center;
+ 	
+ }
+
+ h2{
+ 	padding: 20px;
+ }
+
+ .enlacesection{
+ 	position: relative;
+ 	right: 280px;
+ 	top: 25px;
+ 	text-decoration: none;
+
+ }
+
+ .contenido-imagen{
+ 	margin-top: 20px;
+ 	padding: 10px;
+ 
+ 	
+ }
+
+ .fotos-primera{
+ 	float: left;
+ 	width: 15%;
+ 	margin-right: 25px;
+ 	border: 4px ridge #fff;
+ }
+
+ .enlace-contenido{
+ 	text-decoration:none;
+ 	font-size: 10px;
+ 	margin-right: 65px;
+ 	padding: 1px;
+ 	
+ }
+
+ .enlace-contenido1{
+ 	text-decoration:none;
+ 	font-size: 10px;
+ 	margin: 25px;
+ 	padding: 8px;
+ 	text-align: center;
+
+}
+
+.enlace-contenido2{
+ 	text-decoration:none;
+ 	font-size: 10px;
+ 	margin: 22px;
+ 	padding: 1px;
+ 	text-align: center;
+}
+
+.enlace-contenido3{
+ 	text-decoration:none;
+ 	font-size: 10px;
+ 	margin: 0 24px;
+ 	text-align: center;
+
+ }
+
+.enlace-contenido4{
+ 	text-decoration:none;
+ 	font-size: 10px;
+ 	margin: 50%;
+ 	
+ }
+
+
+ aside{
+ 	
+ 	width: 200%;
+ 	position: relative;
+ 	bottom: 800px;
+ 	left: 700px;
+ 	
+ }
+
+ .lateral{
+ 	text-decoration: none;
+ 	padding: 10px;
+ 	font-size: 13px;
+ 	color: #0E40CF;
+
+}
+
+ h4{
+ 	margin-top:10px;
+ 	padding: 3px;
+ 	color: #817373;
+ 	border-bottom: 1px solid #9D8F8F;
+ 	width: 20%;
+ 	
+ }
+
+ .titulo-aside{
+ 	border-bottom: 1px solid #9D8F8F;
+ 	width: 50%;
+ 	padding: 3px;
+ }
+
+ .icono{
+ 	width: 8%;
+ 	
+
+ }
+
+ .parrafo-aside{
+ 	margin-top: 20px;
+ 	font-size: 13px;
+ 	border-top: 1px solid #9D8F8F;
+ 	padding: 20px;
+
+ }
+
+ .lateral-enlace{
+ 	text-decoration: none;
+ 	font-size: 13px;
+ 	padding: 3px;
+ 
+ }
+
+ footer{
+ 	background-color: #484545;
+ 	position: relative;
+ 	bottom: 280px;
+
+ }
+
+ .parrafo-footer1{
+ 	margin:30px;
+ 	color: #fff;
+ }
+
+ .footer-enlace1{
+ 	text-decoration: none;
+ 	font-size: 15px;
+ 	color: #908989;
+ }
+
+
+ .footer-enlace{
+ 	text-decoration: none;
+ 	font-size: 15px;
+ 	color: #908989;
+ 	margin: 20px;
+
+ 	
+ }
+
+ .parrafo-footer{
+ 	text-align: center;
+ 	margin:30px;
+ 	font-size: 10px;
+ 	color: #6F6B6B;
+ }
+
