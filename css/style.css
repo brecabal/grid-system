@@ -20,118 +20,77 @@ header{
 	margin: 0 auto; 
 
 }
+
+ h2{
+ 	padding: 20px;
+ 	display: inline-block;
+ }
+
+ .enlacesection{
+ 	display: inline-block;
+ 	text-decoration: none;
+ }
+
  .foto-episodios{
  	float: left;
  	width: 100%;
  	border: 4px ridge #fff;
- 	margin: auto;
- }
-
- .parrafo-uno{
- 	margin:0 auto;
- 	color: #0E33D1;
- 	padding-bottom: 20px;
+ 	margin: 10px auto;
  	text-align: center;
- 	
  }
 
- h2{
- 	padding: 20px;
- }
 
- .enlacesection{
- 	position: relative;
- 	right: 280px;
- 	top: 25px;
+
+ .enlace-foto{
  	text-decoration: none;
-
+ 	text-align: center;
+ 	padding: 15%;
  }
 
- .contenido-imagen{
- 	margin-top: 20px;
- 	padding: 10px;
- 
- 	
+ .fotos-chicas{
+ 	margin: 20px auto;
+ 	text-align: center;
  }
 
- .fotos-primera{
- 	float: left;
- 	width: 15%;
+.fotos-primera{
+ 	width: 100%;
  	margin-right: 25px;
  	border: 4px ridge #fff;
- }
-
- .enlace-contenido{
- 	text-decoration:none;
- 	font-size: 10px;
- 	margin-right: 65px;
- 	padding: 1px;
- 	
- }
-
- .enlace-contenido1{
- 	text-decoration:none;
- 	font-size: 10px;
- 	margin: 25px;
- 	padding: 8px;
- 	text-align: center;
 
 }
 
-.enlace-contenido2{
+.enlace-contenido{
  	text-decoration:none;
  	font-size: 10px;
- 	margin: 22px;
- 	padding: 1px;
  	text-align: center;
-}
-
-.enlace-contenido3{
- 	text-decoration:none;
- 	font-size: 10px;
- 	margin: 0 24px;
- 	text-align: center;
+ 	
 
  }
 
-.enlace-contenido4{
- 	text-decoration:none;
- 	font-size: 10px;
- 	margin: 50%;
- 	
- }
 
+  h4{
 
- aside{
- 	
- 	width: 200%;
- 	position: relative;
- 	bottom: 800px;
- 	left: 700px;
+ 	margin:10px 2px;
+ 	color: #817373;
+ 	border-bottom: 1px solid #9D8F8F;
+ 	width: 100%;
  	
  }
 
  .lateral{
  	text-decoration: none;
- 	padding: 10px;
+ 	padding: 5px;
  	font-size: 13px;
  	color: #0E40CF;
 
 }
 
- h4{
- 	margin-top:10px;
- 	padding: 3px;
- 	color: #817373;
- 	border-bottom: 1px solid #9D8F8F;
- 	width: 20%;
- 	
- }
+
 
  .titulo-aside{
- 	border-bottom: 1px solid #9D8F8F;
- 	width: 50%;
- 	padding: 3px;
+ 	margin:10px auto;
+ 	color: #817373;
+ 	width: 100%;
  }
 
  .icono{
@@ -157,8 +116,8 @@ header{
 
  footer{
  	background-color: #484545;
- 	position: relative;
- 	bottom: 280px;
+ 	width: 100%
+ 	
 
  }
 
@@ -175,10 +134,13 @@ header{
 
 
  .footer-enlace{
+ 	text-align: center;
  	text-decoration: none;
  	font-size: 15px;
  	color: #908989;
- 	margin: 20px;
+ 	margin: 30px;
+ 	padding: 10px;
+ 	
 
  	
  }
@@ -189,4 +151,3 @@ header{
  	font-size: 10px;
  	color: #6F6B6B;
  }
-
