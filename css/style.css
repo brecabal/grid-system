@@ -70,10 +70,11 @@ header{
 
   h4{
 
- 	margin:10px 2px;
+ 	margin:10px 0px;
  	color: #817373;
  	border-bottom: 1px solid #9D8F8F;
  	width: 100%;
+ 	padding: 3px;
  	
  }
 
@@ -88,7 +89,7 @@ header{
 
 
  .titulo-aside{
- 	margin:10px auto;
+ 	margin:10px 0px;
  	color: #817373;
  	width: 100%;
  }
@@ -138,7 +139,7 @@ header{
  	text-decoration: none;
  	font-size: 15px;
  	color: #908989;
- 	margin: 30px;
+ 	margin: 10px;
  	padding: 10px;
  	
 
